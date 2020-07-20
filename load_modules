@@ -1,0 +1,4 @@
+module use --append /project/hbj/opt/g/openSUSE-15.0/modules
+module load Compilers/GCC/7.4.1
+module load MPI-HBJ/OpenMPI/3.1.4/GCC/7.4.1
+module load hdf5/1.8.21/OpenMPI/3.1.4/GCC/7.4.1 
